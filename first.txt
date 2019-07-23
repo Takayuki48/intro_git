@@ -4,3 +4,4 @@ gitの基本的な操作を学びます
 git add
 git commit -v
 git rm
+git status
